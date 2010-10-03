@@ -1,0 +1,106 @@
+/*
+Global HTML elements
+*/
+
+h1 {
+	margin: 5px 0px 10px 0px;	
+}
+
+form
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+img
+{
+	margin: 0px;
+	padding: 0px;
+	border: none;
+}
+
+a:link
+{
+	color: #2E2E2E;
+	text-decoration: none;
+}
+a:visited
+{
+	color: #2E2E2E;
+	text-decoration: none;
+}
+a:hover
+{
+	color: #2E2E2E;
+	text-decoration: underline;
+}
+a:active
+{
+	color: #2E2E2E;
+	text-decoration: underline;
+}
+
+
+/*
+Full Flash styles
+*/
+html
+{
+	width: 100%;
+	height: 100%;
+}
+
+.fullFlash
+{
+	background-color: #F0F0F0;
+	color: #000000;
+	font: 0.7em/1.2em Arial, Verdana, Geneva, Helvetica, sans-serif;
+	margin: 0px;
+	padding: 0px;
+
+	width: 100%;
+	height: 100%;
+
+	min-width: 900px;
+	min-height: 550px;
+}
+
+/*
+SEO style
+*/
+#NoFlashHeader {
+	background: #D6D6D6;
+	width: 100%;
+}
+#NoFlashHeaderContent {
+	padding: 10px;
+}
+#NoFlashHeaderContent a {
+	font-weight: bold;	
+	text-decoration: underline;
+}
+
+#menu {
+	margin: 0px 0px 0px -10px;
+	background: #9CC;
+	float: left;
+	padding: 15px 20px 20px 20px;
+}
+#menu UL {
+	margin: 0px;
+	padding: 0px 0px 0px 10px;
+}
+#menu li {
+	list-style-type: none;
+	padding: 0px 0px 3px 0px;
+}
+
+#content {
+	background: #FF3215;
+	float: left;
+	width: 70%;
+	padding: 5px 20px 20px 20px;
+}
+
+
+
