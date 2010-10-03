@@ -1,0 +1,12 @@
+/.settings/*
+.project
+.actionScriptProperties
+.flexProperties
+/bin-debug/*
+/bin-release/*
+/html-template/*
+
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
