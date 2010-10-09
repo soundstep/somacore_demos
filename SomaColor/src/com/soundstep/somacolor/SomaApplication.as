@@ -1,4 +1,6 @@
 package com.soundstep.somacolor {
+	import flash.display.StageScaleMode;
+	import flash.display.StageAlign;
 	import com.greensock.plugins.TintPlugin;
 	import com.greensock.plugins.TweenPlugin;
 	import com.soma.core.Soma;
@@ -63,6 +65,7 @@ package com.soundstep.somacolor {
 		
 		private function initialize():void {
 			TweenPlugin.activate([TintPlugin]);
+			stage.frameRate = 41;			stage.align = StageAlign.TOP_LEFT;			stage.scaleMode = StageScaleMode.NO_SCALE;
 			dispatchEvent(new StartEvent(StartEvent.START));
 			createDebugger();
 		}
