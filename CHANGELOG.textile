@@ -1,0 +1,3 @@
+h3. SomaCore Demos (16-10-2010)
+
+First Release containing SomaColor, SomaCoreGC and SomaCafeTownSend.

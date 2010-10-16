@@ -1,0 +1,16 @@
+h2. SomaCore Demos
+
+h3. SomaColor
+
+* "Pure AS3 demo":http://www.soundstep.com/blog/source/somacore/demo/Flash/SomaColor/
+* "View Source":http://www.soundstep.com/blog/source/somacore/demo/Flash/SomaColor/srcview
+
+h3. SomaCafeTownSend
+
+"Flash Builder demo":http://www.soundstep.com/blog/source/somacore/demo/Flex/CafeTownSend/
+"View Source":http://www.soundstep.com/blog/source/somacore/demo/Flex/CafeTownSend/srcview
+
+h3. SomaCoreGC
+
+"Garbage Collection monitor demo with the SomaCoreDebugger":http://www.soundstep.com/blog/source/somacore/demo/Flash/SomaCoreGC/
+"View Source":http://www.soundstep.com/blog/source/somacore/demo/Flash/SomaCoreGC/srcview
