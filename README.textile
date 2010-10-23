@@ -7,7 +7,7 @@ h3. SomaColor
 
 h3. SomaCafeTownSend
 
-* "Flash Builder demo":http://www.soundstep.com/blog/source/somacore/demo/Flex/CafeTownSend/
+* "Flash Builder / Flex demo":http://www.soundstep.com/blog/source/somacore/demo/Flex/CafeTownSend/
 * "View Source":http://www.soundstep.com/blog/source/somacore/demo/Flex/CafeTownSend/srcview
 
 h3. SomaCoreGC (flash player debugger needed)
