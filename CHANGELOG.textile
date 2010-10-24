@@ -1,3 +1,7 @@
+h3. SomaCoreHelloWorld Demo (24-10-2010)
+
+SomaCore Hello World demo added.
+
 h3. SomaCore Demos (16-10-2010)
 
 First Release containing SomaColor, SomaCoreGC and SomaCafeTownSend.
