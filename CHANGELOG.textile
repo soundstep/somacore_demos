@@ -1,3 +1,7 @@
+h3. SomaCoreTwitterSearch Demo (25-10-2010)
+
+SomaCore Twitter Search demo added.
+
 h3. SomaCoreHelloWorld Demo (24-10-2010)
 
 SomaCore Hello World demo added.
