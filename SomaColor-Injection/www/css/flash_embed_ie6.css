@@ -1,0 +1,5 @@
+.fullFlashWrapperIE6
+{
+	width: expression(document.body.clientWidth < 991 ? "990px": "100%" );
+	height: expression(document.body.clientHeight < 621 ? "620px": "100%" );
+}

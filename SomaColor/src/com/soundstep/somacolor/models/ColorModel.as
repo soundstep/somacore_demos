@@ -41,11 +41,11 @@ package com.soundstep.somacolor.models {
 		// PRIVATE, PROTECTED
 		//________________________________________________________________________________________________
 		
-		override protected function initialize():void {
+		override public function initialize():void {
 			
 		}
 		
-		override protected function dispose():void {
+		override public function dispose():void {
 			
 		}
 		

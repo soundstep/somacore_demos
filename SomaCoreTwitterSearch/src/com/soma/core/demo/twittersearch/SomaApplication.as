@@ -18,10 +18,9 @@ package com.soma.core.demo.twittersearch {
 		public function SomaApplication(container:Main) {
 			_container = container;
 			super(_container.stage);
-			initialize();
 		}
 
-		private function initialize():void {
+		override protected function initialize():void {
 			stage.align = StageAlign.TOP_LEFT;
 			stage.scaleMode = StageScaleMode.NO_SCALE;
 		}

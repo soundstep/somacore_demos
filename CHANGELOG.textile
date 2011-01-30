@@ -1,3 +1,8 @@
+h3. SomaCore Demos changes for SomaCore v2.0.0
+
+Demos with injection not enabled have been updated.
+Demos with injection enabled have been added.
+
 h3. SomaCoreTwitterSearch Demo (25-10-2010)
 
 SomaCore Twitter Search demo added.

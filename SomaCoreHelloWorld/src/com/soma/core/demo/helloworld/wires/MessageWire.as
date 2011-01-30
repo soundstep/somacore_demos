@@ -18,7 +18,7 @@ package com.soma.core.demo.helloworld.wires {
 			super(NAME);
 		}
 
-		override protected function initialize():void {
+		override public function initialize():void {
 			// model
 			addModel(MessageModel.NAME, new MessageModel());
 			// view

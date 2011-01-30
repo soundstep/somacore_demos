@@ -57,7 +57,7 @@ package com.soundstep.somacolor.wires {
 		// PRIVATE, PROTECTED
 		//________________________________________________________________________________________________
 		
-		override protected function initialize():void {
+		override public function initialize():void {
 			// register commands
 			addCommand(ColorDataEvent.LOAD, ColorCommand);
 			addCommand(ColorDataEvent.UPDATED, ColorCommand);
@@ -83,7 +83,7 @@ package com.soundstep.somacolor.wires {
 			_lastSequencer = getLastSequencer();
 		}
 		
-		override protected function dispose():void {
+		override public function dispose():void {
 			
 		}
 		

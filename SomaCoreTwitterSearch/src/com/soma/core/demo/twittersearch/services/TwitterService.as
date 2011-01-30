@@ -19,7 +19,7 @@ package com.soma.core.demo.twittersearch.services {
 			super(NAME);
 		}
 		
-		override protected function initialize():void {
+		override public function initialize():void {
 			_tweetr = new Tweetr();
 			_tweetr.serviceHost = "http://labs.swfjunkie.com/tweetr/proxy";
 			_tweetr.addEventListener(TweetEvent.COMPLETE, resultHandler);

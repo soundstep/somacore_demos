@@ -18,7 +18,7 @@ package com.soma.core.demo.twittersearch.wires {
 			super(NAME);
 		}
 		
-		override protected function initialize():void {
+		override public function initialize():void {
 			// view
 			addView(NAME_VIEW, new MainView());
 			stage.addChild(view);

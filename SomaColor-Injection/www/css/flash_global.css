@@ -1,0 +1,104 @@
+/*
+Global Flash StyleSheet
+*/
+
+a {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+.menuItem {
+	font-family: "Arial";
+	font-size: 11;
+}
+.colorMenuItemOut {
+	color: #313131;
+}
+.colorMenuItemOver {
+	color: #000000;
+}
+.title {
+	font-family: "Arial";
+	color: #000000;
+	font-size: 24;
+}
+.subtitle {
+	font-family: "Arial";
+	color: #000000;
+	font-size: 18;
+}
+.body {
+	font-family: "Arial";
+	color: #000000;
+	font-size: 11;
+}
+.bodyWhite {
+	font-family: "Arial";
+	color: #FFFFFF;
+	font-size: 11;
+}
+
+/*
+	Here is the list of CSS properties you can use with SomaText in your stylesheet
+	Most of the properties are not flash built-in and can be used only with SomaText
+	The TextField properties will apply on the whole TextField
+	The TextFormat properties can be applied on specific parts of the text using HTML tags
+
+	// TextField Properties
+	
+	alpha: 50; // (alpha) 0-100
+	always-show-selection: true; // (alwaysShowSelection) true-false
+	anti-alias-type: advanced; // (antiAliasType) normal-advanced
+	auto-size: left; // (autoSize) center-none-left-right
+	background: true; // (background) true-false
+	background-color: #CCCCCC; // (backgroundColor) color value
+	blend-mode: multiply; // (blendMode) add-alpha-darken-difference-erase-hardlight-invert-layer-lighten-multiply-normal-overlay-screen-subtract
+	border: true; // (border) true-false
+	border-color: #CCCCCC; // (borderColor) color value
+	cache-as-bitmap: true; // (cacheAsBitmap) true-false
+	condense-white: true; // (condenseWhite) true-false
+	display-as-password: true; // (displayAsPassword) true-false
+	double-click-enabled: true; // (doubleClickEnabled) true-false
+	embed-fonts: true; // (embedFonts) true-false
+	grid-fit-type: pixel; // (gridFitType) none-pixel-subpixel
+	height: 40; // (height) pixel value
+	max-chars: 10; // (maxChars) number of character
+	mouse-enabled: true; // (mouseEnabled) true-false
+	mouse-wheel-enabled: true; // (mouseWheelEnabled) true-false
+	multiline: true; // (multiline) true-false
+	name: myTextField; // (name) string value
+	restrict: 0-9; // (restrict) regExp, ex: "A-Z 0-9", "^a-z", "\\-\\^", "A-Z^Q", "\u0020-\u007E"
+	rotation: 30; // (rotation) pixel value
+	scaleX: 300; // (scaleX) pixel value
+	scaleY: 300; // (scaleY) pixel value
+	scrollH: 30; // (scrollH) pixel value
+	scrollV: 30; // (scrollV) pixel value
+	selectable: true; // (selectable) true-false
+	sharpness: 50; // (sharpness) -200 to 200;
+	tab-enabled: true; // (tabEnabled) true-false
+	tab-index: 1; // (tabIndex) int value
+	thickness: 50; // (thickness) -200 to 200;
+	use-rich-text-clipboard: true; // (useRichTextClipboard) true-false
+	visible: true; // (visible) true-false
+	width: 300; // (width) pixel value
+	word-wrap: true; // (wordWrap) pixel value
+	
+	// TextFormat Properties
+	
+	color: #FF0000; // (color) color value
+	display: block; // inline-block-and none
+	font-family: "Arial, Helvetiva, _sans"; // (font) list of fonts separated by a comma (mono = _typewriter, sans-serif = _sans, serif = _serif)
+	font-size: 10; // (size) pixel value
+	font-style: italic; // (italic) normal-italic
+	font-weight: bold; // (bold) normal-bold
+	kerning: true; // (kerning) true-false
+	leading: 4 // (leading) pixel value
+	letter-spacing: 4; // (letterSpacing) pixel value
+	margin-left: 30; // (leftMargin) pixel value
+	margin-right: 30; // (rightMargin) pixel value
+	text-align: right; // (align) left-right-center-justify
+	text-decoration: underline; (underline) underline-none
+	text-indent: 30; // (blockIndent) pixel value
+
+*/
