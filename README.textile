@@ -20,15 +20,15 @@ h3. SomaColor
 * "Pure AS3 demo":http://www.soundstep.com/blog/source/somacore/demos/SomaColor/
 * "View Source":http://www.soundstep.com/blog/source/somacore/demos/SomaColor/srcview
 
-h3. SomaCafeTownSend (Injection enabled)
+h3. SomaCoreCafeTownSend (Injection enabled)
 
-* "Flash Builder / Flex demo":http://www.soundstep.com/blog/source/somacore/demos/CafeTownSend-Injection/
-* "View Source":http://www.soundstep.com/blog/source/somacore/demos/CafeTownSend-Injection/srcview
+* "Flash Builder / Flex demo":http://www.soundstep.com/blog/source/somacore/demos/SomaCoreCafeTownSend-Injection/
+* "View Source":http://www.soundstep.com/blog/source/somacore/demos/SomaCoreCafeTownSend-Injection/srcview
 
-h3. SomaCafeTownSend
+h3. SomaCoreCafeTownSend
 
-* "Flash Builder / Flex demo":http://www.soundstep.com/blog/source/somacore/demos/CafeTownSend/
-* "View Source":http://www.soundstep.com/blog/source/somacore/demos/CafeTownSend/srcview
+* "Flash Builder / Flex demo":http://www.soundstep.com/blog/source/somacore/demos/SomaCoreCafeTownSend/
+* "View Source":http://www.soundstep.com/blog/source/somacore/demos/SomaCoreCafeTownSend/srcview
 
 h3. SomaCore Twitter Search (injection enabled)
 
