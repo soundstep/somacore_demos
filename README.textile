@@ -1,27 +1,47 @@
 h2. SomaCore Demos
 
+h3. SomaCore Hello World (injection enabled)
+
+* "Simple Application that shows a message":http://www.soundstep.com/blog/source/somacore/demos/SomaCoreHelloWorld-Injection/
+* "View Source":http://www.soundstep.com/blog/source/somacore/demos/SomaCoreHelloWorld-Injection/srcview/
+
 h3. SomaCore Hello World
 
-* "Simple Application that shows a message":http://www.soundstep.com/blog/source/somacore/demo/Flash/SomaCoreHelloWorld/
-* "View Source":http://www.soundstep.com/blog/source/somacore/demo/Flash/SomaCoreHelloWorld/srcview/
+* "Simple Application that shows a message":http://www.soundstep.com/blog/source/somacore/demos/SomaCoreHelloWorld/
+* "View Source":http://www.soundstep.com/blog/source/somacore/demos/SomaCoreHelloWorld/srcview/
+
+h3. SomaColor (Injection enabled)
+
+* "Pure AS3 demo":http://www.soundstep.com/blog/source/somacore/demos/SomaColor-Injection/
+* "View Source":http://www.soundstep.com/blog/source/somacore/demos/SomaColor-Injection/srcview
 
 h3. SomaColor
 
-* "Pure AS3 demo":http://www.soundstep.com/blog/source/somacore/demo/Flash/SomaColor/
-* "View Source":http://www.soundstep.com/blog/source/somacore/demo/Flash/SomaColor/srcview
+* "Pure AS3 demo":http://www.soundstep.com/blog/source/somacore/demos/SomaColor/
+* "View Source":http://www.soundstep.com/blog/source/somacore/demos/SomaColor/srcview
+
+h3. SomaCafeTownSend (Injection enabled)
+
+* "Flash Builder / Flex demo":http://www.soundstep.com/blog/source/somacore/demos/CafeTownSend-Injection/
+* "View Source":http://www.soundstep.com/blog/source/somacore/demos/CafeTownSend-Injection/srcview
 
 h3. SomaCafeTownSend
 
-* "Flash Builder / Flex demo":http://www.soundstep.com/blog/source/somacore/demo/Flex/CafeTownSend/
-* "View Source":http://www.soundstep.com/blog/source/somacore/demo/Flex/CafeTownSend/srcview
+* "Flash Builder / Flex demo":http://www.soundstep.com/blog/source/somacore/demos/CafeTownSend/
+* "View Source":http://www.soundstep.com/blog/source/somacore/demos/CafeTownSend/srcview
 
-h3. SomaCoreGC (flash player debugger needed)
+h3. SomaCore Twitter Search (injection enabled)
 
-* "Garbage Collection monitor demo with the SomaCoreDebugger":http://www.soundstep.com/blog/source/somacore/demo/Flash/SomaCoreGC/
-* "View Source":http://www.soundstep.com/blog/source/somacore/demo/Flash/SomaCoreGC/srcview
+* "Pure AS3 Twitter Search":http://www.soundstep.com/blog/source/somacore/demos/SomaCoreTwitterSearch-Injection/
+* "View Source":http://www.soundstep.com/blog/source/somacore/demos/SomaCoreTwitterSearch-Injection/srcview/
 
 h3. SomaCore Twitter Search
 
-* "Pure AS3 Twitter Search":http://www.soundstep.com/blog/source/somacore/demo/Flash/SomaCoreTwitterSearch/
-* "View Source":http://www.soundstep.com/blog/source/somacore/demo/Flash/SomaCoreTwitterSearch/srcview/
+* "Pure AS3 Twitter Search":http://www.soundstep.com/blog/source/somacore/demos/SomaCoreTwitterSearch/
+* "View Source":http://www.soundstep.com/blog/source/somacore/demos/SomaCoreTwitterSearch/srcview/
+
+h3. SomaCoreGC (flash player debugger needed)
+
+* "Garbage Collection monitor demo with the SomaCoreDebugger":http://www.soundstep.com/blog/source/somacore/demos/SomaCoreGC/
+* "View Source":http://www.soundstep.com/blog/source/somacore/demos/SomaCoreGC/srcview
 
