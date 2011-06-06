@@ -1,0 +1,37 @@
+h1 {
+	margin: 5px 0px 10px 0px;	
+}
+
+form
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+img
+{
+	margin: 0px;
+	padding: 0px;
+	border: none;
+}
+
+a:link
+{
+	color: #2E2E2E;
+	text-decoration: none;
+}
+a:visited
+{
+	color: #2E2E2E;
+	text-decoration: none;
+}
+a:hover
+{
+	color: #2E2E2E;
+	text-decoration: underline;
+}
+a:active
+{
+	color: #2E2E2E;
+	text-decoration: underline;
+}

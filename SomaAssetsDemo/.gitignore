@@ -1,0 +1,8 @@
+/.settings/*
+.project
+www/*.swc
+
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db

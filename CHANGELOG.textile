@@ -1,3 +1,7 @@
+h3. SomaAssets plugin demo (06-06-2011)
+
+A quick demo to use the SomaAssets plugin to load some assets in your application.
+
 h3. SomaCore Demos changes for SomaCore v2.0.0
 
 Demos with injection not enabled have been updated.

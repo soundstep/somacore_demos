@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<loader connection="1">
+	<asset id="image0" src="assets/img/image0.jpg" smoothing="true" transparent="true"/>
+	<asset id="image1" src="assets/img/image1.jpg" smoothing="true" transparent="true"/>
+	<group id="group0">
+		<group id="group00">
+			<asset id="image2" src="assets/img/image2.jpg" smoothing="true" transparent="true"/>
+			<asset id="image3" src="assets/img/image3.jpg" smoothing="true" transparent="true"/>
+		</group>
+		<group id="group01">
+			<asset id="css" src="assets/css/stylesheet.css" preventCache="true" weight="352"/>
+			<asset id="json" src="assets/json/data.json" preventCache="true" weight="582"/>
+			<asset id="sound" src="assets/sounds/sample.mp3" preventCache="true" weight="16718"/>
+			<asset id="text" src="assets/text/text.txt" preventCache="true" weight="574"/>
+			<asset id="xml" src="assets/xml/sample.xml" preventCache="true" weight="79"/>
+			<asset id="video" src="assets/video/sample.flv" weight="1550580"/>
+			<asset id="zip" src="assets/zip/file.zip" weight="3493"/>
+		</group>
+	</group>
+</loader>
