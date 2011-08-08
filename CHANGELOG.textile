@@ -1,3 +1,7 @@
+h3. SomaAssets plugin demo (08-08-2011)
+
+Update with the latest library.
+
 h3. SomaAssets plugin demo (06-06-2011)
 
 A quick demo to use the SomaAssets plugin to load some assets in your application.
